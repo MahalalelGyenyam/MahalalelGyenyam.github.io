@@ -1,4 +1,4 @@
-##[MahalalelGyenyam.github.io](https://mahalalelgyenyam.github.io/)
+## The [MahalalelGyenyam.github.io](https://mahalalelgyenyam.github.io/) Homepage
 Feel free to visit my Github profile [here](https://github.com/MahalalelGyenyam)
 
 
